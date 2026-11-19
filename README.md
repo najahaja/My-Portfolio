@@ -88,7 +88,7 @@ src/
 ## Contact
 
 - GitHub: https://github.com/najahaja
-- Portfolio: https://najah.najahaja00.workers.dev/
+- Portfolio: https://najah.najahaja.workers.dev/
 
 ## License
 
