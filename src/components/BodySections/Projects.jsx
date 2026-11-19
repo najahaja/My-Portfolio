@@ -75,8 +75,8 @@ const Projects = () => {
     { 
       src: video2, 
       title: "CartApp with React and Vite", 
-      demo: "https://main--addcartap.netlify.app/", 
-      source: "https://github.com/najahaja/addcart", 
+      demo: "https://addcart.najahaja.workers.dev/", 
+      source: "https://github.com/najahaja/addCartApp", 
       lang: "JavaScript, CSS, HTML", 
       tools: "React, Vite, Webpack, Redux, React Router, Axios/Fetch" 
     },
