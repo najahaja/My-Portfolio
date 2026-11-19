@@ -7,7 +7,7 @@ const experiences = [
     company: "Artificizen",
     location: "Onsite",
     duration: "Jan 2026 – July 2026",
-    type: "Full-time",
+    type: "Internship",
     description: [
       "Designed and deployed real-time AI voice agents handling 200+ calls per day by orchestrating Gemini and Grok LLMs with LangChain and LangGraph across Retell AI, Dograh (Docker), and LiveKit.",
       "Engineered FastAPI microservices on MySQL and PostgreSQL (Neon) with FAISS and ChromaDB vector search, achieving sub-10ms retrieval latency during live audio streams.",
