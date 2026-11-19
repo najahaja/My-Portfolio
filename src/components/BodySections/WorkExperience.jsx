@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    role: "AI Engineer",
+    role: "AI Intern",
     company: "Artificizen",
     location: "Onsite",
     duration: "Jan 2026 – July 2026",
