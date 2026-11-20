@@ -27,7 +27,7 @@ const experiences = [
     role: "Full-Stack Developer Intern ",
     company: "PINNACLOID",
     location: "Lahore, Pakistan",
-    duration: "Aug 2025 – Oct 2025",
+    duration: "July 2025 – Oct 2025",
     type: "Internship",
     description: [
       "Build and scale foundational full-stack features using Node.js and React.js to support the integration of LLMs into production environments.",
